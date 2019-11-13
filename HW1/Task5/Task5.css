@@ -1,0 +1,207 @@
+.body{
+    background-color: rgb(226, 225, 225);
+}
+.main{
+    display: flex;
+    position: absolute;
+    width: 98%;
+    height: 98%;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
+#one{
+    margin: -1px;
+    order: 2;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#two{
+    margin: -1px;
+    order: 2;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#three{
+    order: 3;
+    margin: -1px;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#four{
+    margin: -1px;
+    order: 4;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#five{
+    order: 5;
+    margin: -1px;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#six{
+    margin: -1px;
+    order: 6;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#seven{
+    order: 7;
+    margin: -1px;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#eight{ 
+    margin: -1px;
+    order: 8;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#nine{
+    order: 9;
+    margin: -1px;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+#ten{
+    margin: -1px;
+    order: 10;
+    width: 20%;
+    height: 50%;
+    border:grey solid 1px;
+}
+
+h1{
+    font-size: auto;
+    font-size: 23px;
+    text-align: center;
+    
+}
+img{
+    display: block;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    margin-top: 1px;
+}
+h3{
+    margin-top: -4%;
+    font-size: auto;
+    text-align: center;
+}
+
+@media(max-width:1028px){
+    .main{
+        display: flex;
+        position: absolute;
+        width: 96%;
+        height: 98%;
+        flex-wrap: wrap;
+        background-color: #fff;
+    }
+
+    #one{
+        margin: -1px;
+        order: 2;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #two{
+        margin: -1px;
+        order: 2;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #three{
+        order: 3;
+        margin: -1px;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #four{
+        margin: -1px;
+        order: 4;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #five{
+        order: 5;
+        margin: -1px;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #six{
+        margin: -1px;
+        order: 6;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #seven{
+        order: 7;
+        margin: -1px;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #eight{ 
+        margin: -1px;
+        order: 8;
+        width: 25%;
+        height: 28%;
+        border:grey solid 1px;
+    }
+    #nine{
+        order: 9;
+        margin: -1px;
+        width: 50%;
+        height: 44%;
+        border:grey solid 1px;
+    }
+    #ten{
+        margin: -1px;
+        order: 10;
+        width: 50%;
+        height: 44%;
+        border:grey solid 1px;
+    }
+    h1{
+        font-size: auto;
+        font-size: 16px;
+        text-align: center;
+        
+    }
+    img{
+        display: block;
+        width: 70%;
+        height: 60%;
+        margin: auto;
+        margin-top: 1px;
+    }
+    #iten{
+        display: block;
+        width: 60%;
+        height: 60%;
+        margin: auto;
+        margin-top: 1px;
+    }
+    h3{
+        margin-top: -4%;
+        font-size: 11px;
+        text-align: center;
+    }
+}

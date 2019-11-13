@@ -1,0 +1,12 @@
+table {
+  position: relative;
+  left: 28%;
+  border: 1px solid black;
+}
+th, td {
+  position: relative;
+  border: 1px solid black;
+}
+h1{
+  text-align: center;
+}

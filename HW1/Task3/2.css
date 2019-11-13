@@ -1,0 +1,31 @@
+.big{
+    position: relative;
+    width:500px;
+    height:500px;
+    border:2px solid;
+}
+
+.blue {
+    position: relative;
+left: 250px;
+background-color: blue;
+left: 250 px;
+width:250px;
+height:250px;
+}
+.lime {
+    display: flex;
+    position: absolute;
+    left: 125px;
+    top: 125px;
+    background-color: lime;
+    width:250px;
+    height:250px;
+    
+}
+.red{
+    position: relative;
+    background-color: red;
+    width: 250px;
+    height: 250px;
+}
